@@ -1,0 +1,68 @@
+[
+  {
+    "id": "maharani-mandir",
+    "message": "",
+    "groupName": "Sri Sri Maharani Mandir",
+    "profilePhoto": "organizations/images/mandir/photo/profile.jpg",
+    "svgLink": "organizations/images/mandir/photo/profile2.jpg",
+    "imageUrls": [
+      "organizations/images/mandir/carousel/from-grass-path.jpg",
+      "organizations/images/mandir/carousel/from-stairs-red.jpg",
+      "organizations/images/mandir/carousel/from-stairs-2.jpg"
+    ],
+    "groupContact": {
+      "emailId": "",
+      "officeHours": "10AM to 2PM",
+      "address": "",
+      "quickDials": [
+        {
+          "serviceName": "President",
+          "phoneNo": "9101996012"
+        },
+        {
+          "serviceName": "Secretary",
+          "phoneNo": "9101614460"
+        }
+      ],
+      "socialMedia": []
+    },
+    "staffInfo": [
+      {
+        "staffName": "Phulen Rabha",
+        "designation": "President",
+        "photoUrl": "",
+        "contactInfo": {
+          "emailId": "",
+          "phoneNos": [
+            "9101996012"
+          ],
+          "socialMedia": []
+        }
+      },
+      {
+        "staffName": "Pradip Kumar Ray",
+        "designation": "Secretary",
+        "photoUrl": "/organizations/images/mandir/staff/pradip_kr_ray.jpg",
+        "contactInfo": {
+          "emailId": "",
+          "phoneNos": [
+            "9101614460"
+          ],
+          "socialMedia": []
+        }
+      },
+      {
+        "staffName": "Jayanta Kumar Ray",
+        "designation": "Staff",
+        "photoUrl": "/organizations/images/mandir/staff/jayanta_kr_roy.jpg",
+        "contactInfo": {
+          "emailId": "",
+          "phoneNos": [
+            "9957583804"
+          ],
+          "socialMedia": []
+        }
+      }
+    ]
+  }
+]

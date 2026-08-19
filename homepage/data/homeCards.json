@@ -1,0 +1,25 @@
+{
+  "home_cards": [
+    {
+      "title": "Local Businesses",
+      "description": "Discover shops, eateries, workshops, and local trades serving Khagarpur.",
+      "call_to_action": "Explore Businesses",
+      "link": "/Businesses",
+      "image": "/homepage/images/homeCards/businesses.jpg"
+    },
+    {
+      "title": "Our Community",
+      "description": "Connect with local organizations, events, schools, and community initiatives.",
+      "call_to_action": "Explore Community",
+      "link": "/Community",
+      "image": "/homepage/images/homeCards/community.jpg"
+    },
+    {
+      "title": "About Khagarpur",
+      "description": "Learn about our village history, culture, geography, and local administration.",
+      "call_to_action": "Read More",
+      "link": "/About",
+      "image": "/homepage/images/homeCards/village.jpg"
+    }
+  ]
+}
