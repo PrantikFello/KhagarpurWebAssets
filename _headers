@@ -1,3 +1,4 @@
 /*
   Access-Control-Allow-Origin: *
-  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Methods: GET, HEAD, OPTION
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
