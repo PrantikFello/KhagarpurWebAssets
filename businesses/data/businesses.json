@@ -1,4 +1,87 @@
 [
- 
+  {
+    "service_id": "dev-store-bhrigu",
+    "name": "Dev Store",
+    "description": "General Store. All week 10AM to 9PM",
+    "relevance_tags": [
+      "food",
+      "hygene",
+      "home",
+      "stationery",
+      "snacks"
+    ],
+    "specifics": [
+      "mobile-recharge",
+      "bakery",
+      "noodles",
+      "dal",
+      "rice",
+      "pen"
+    ],
+    "image": "",
+    "website": "",
+    "service_area": [
+      "khagarpur"
+    ],
+    "phone": [
+      "8638717087"
+    ],
+    "socialMedia": []
+  },
+  {
+    "service_id": "moharani-store-bikhat",
+    "name": "Moharani Store",
+    "description": "All week. 9AM to 7PM",
+    "relevance_tags": [
+      "fuel",
+      "bakery",
+      "snacks",
+      "stationery"
+    ],
+    "specifics": [
+      "petrol",
+      "paan",
+      "biscuits",
+      "chips",
+      "cakes",
+      "pen",
+      "notebook"
+    ],
+    "image": "",
+    "website": "",
+    "service_area": [
+      "khagarpur"
+    ],
+    "phone": [
+      "8011712744"
+    ],
+    "socialMedia": []
+  },
+  {
+    "service_id": "kamal-das-tea-stall",
+    "name": "Kamal Das Tea Stall",
+    "description": "Snacks and beverages. 9AM to 7PM",
+    "relevance_tags": [
+      "snacks",
+      "drinks",
+      "tea",
+      "food"
+    ],
+    "specifics": [
+      "samosa",
+      "tea",
+      "paratha",
+      "namkeen",
+      "cold-drinks"
+    ],
+    "image": "",
+    "website": "",
+    "service_area": [
+      "khagarpur"
+    ],
+    "phone": [
+      "9859005135"
+    ],
+    "socialMedia": []
+  }
 ]
-
