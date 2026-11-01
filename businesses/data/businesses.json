@@ -83,20 +83,21 @@
       "9859005135"
     ],
     "socialMedia": []
-  }, {
+  },
+  {
     "service_id": "dhireshar-saloon",
     "name": "Dhireshar Saloon",
     "description": "Haricut and Massage. 10AM to 4PM",
     "relevance_tags": [
       "barber shop",
-"saloon"
+      "saloon"
     ],
     "specifics": [
       "hair cut",
       "hair color",
-      "grooming",
+      "grooming"
     ],
-    "image": "",
+    "image": "/businesses/images/dhireshar-saloon.jpg",
     "website": "",
     "service_area": [
       "khagarpur"
